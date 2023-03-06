@@ -1,0 +1,7 @@
+public class actividad_clase2 {
+	public static void main (String [] args) {
+
+	System.out.println ("Probando Github");
+
+	}
+}
