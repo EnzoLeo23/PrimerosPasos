@@ -1,7 +1,8 @@
 public class actividad_clase2 {
 	public static void main (String [] args) {
-
+	
+	int año = 2023;
 	System.out.println ("Probando Github");
-
+	System.out.println ("Aprendiendo Github y java en el año " + año );
 	}
 }
